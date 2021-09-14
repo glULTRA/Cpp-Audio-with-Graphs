@@ -1,8 +1,8 @@
-#include <iostream>				// std::cout
-#include <fstream>				// for creating WAV file.
-#include <SFML/Graphics.hpp>			// For drawing the wave function.
-#include <Windows.h>				// For playing the wave file.
-#include <vector>				// std::vector ( for multiple point ).
+#include <iostream>		// std::cout
+#include <fstream>		// for creating WAV file.
+#include <SFML/Graphics.hpp>	// For drawing the wave function.
+#include <Windows.h>		// For playing the wave file.
+#include <vector>		// std::vector ( for multiple point ).
 
 using namespace std;
 
